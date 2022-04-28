@@ -1,0 +1,29 @@
+.heading{
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.input{
+    margin-left: 200px;
+    height:5vh;
+    width:45vw;
+}
+.textarea{
+    margin-left: 200px;
+    width:45vw;
+    height:40vh;
+}
+.button{
+    margin-left: 200px;
+    background-color: rgba(12, 12, 185, 0.757);
+    color:white;
+    height:5vh;
+}
+.button:hover{
+    background-color: orange;
+    box-shadow: 5px 5px 10px 5px red;
+    transition: ease;
+}
+.required{
+    margin-left: 200px;
+    color:red
+}
